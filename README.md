@@ -1,0 +1,1 @@
+# freddy-copilot-migration-sampl-apps
